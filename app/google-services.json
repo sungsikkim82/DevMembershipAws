@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252048526350",
+    "project_id": "devmembershipaws",
+    "storage_bucket": "devmembershipaws.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252048526350:android:666412105863d03461805f",
+        "android_client_info": {
+          "package_name": "com.kicc.devmembershipaws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252048526350-vrd0bstbdk8eqa6g4krbgl73fhhg955e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4snlEbfOjdVTKA5TyDBahD6J62-txPJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252048526350-vrd0bstbdk8eqa6g4krbgl73fhhg955e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

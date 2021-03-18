@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DevMembershipAws</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="default_notification_channel_id">1</string>
+    <string name="fcm_message">message_sample</string>
+</resources>
